@@ -1,0 +1,26 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: black;
+    width: 100%;
+    height: auto;
+}
+
+.Title{
+    width: 100%;
+    text-align: center;
+}
+
+.Title h3{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.Title p{
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
